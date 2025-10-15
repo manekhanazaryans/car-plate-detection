@@ -1,0 +1,6 @@
+train: C:/Users/Mane Khanazaryan/OneDrive/Desktop/plate Project/data/images/train
+val: C:/Users/Mane Khanazaryan/OneDrive/Desktop/plate Project/data/images/val
+
+nc: 1
+names: ['plate']
+
